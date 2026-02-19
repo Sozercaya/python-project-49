@@ -41,6 +41,11 @@ brain-even
 Пример работы
 https://asciinema.org/a/782DYvR55sKF5Viu.svg
 
+# Игра "Калькулятор"
+brain-calc
+Пример работы
+https://asciinema.org/a/LygLu8ue18E0X4Rd
+
 Разработка
 Настройка окружения
 bash
