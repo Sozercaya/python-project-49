@@ -1,4 +1,6 @@
 import prompt
+
+
 def main():
     print('Welcome to the Brain Games!')
     welcome_user()
@@ -6,7 +8,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 
 def welcome_user():
