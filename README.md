@@ -46,6 +46,11 @@ brain-calc
 Пример работы
 https://asciinema.org/a/LygLu8ue18E0X4Rd
 
+# Игра "НОД"
+brain-gcd
+Пример работы
+https://asciinema.org/a/x2TPIEKsGjVzNnIt
+
 Разработка
 Настройка окружения
 bash
