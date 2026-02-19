@@ -12,3 +12,5 @@ brain-even:
 	uv run brain-even
 brain-calc:
 	uv run brain-calc
+brain-progression:
+	uv run brain-progression
