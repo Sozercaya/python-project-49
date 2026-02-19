@@ -51,6 +51,11 @@ brain-gcd
 Пример работы
 https://asciinema.org/a/x2TPIEKsGjVzNnIt
 
+# Игра "Арифметическая прогрессия"
+brain-progression
+Пример работы
+https://asciinema.org/a/pIizvxxKcoKPEikT
+
 Разработка
 Настройка окружения
 bash
