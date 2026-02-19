@@ -18,10 +18,4 @@ def generate_round():
     else:
         correct_answer = 'no'
     return question, correct_answer
-        
-
-if __name__ == "__main__":
-    main()
-
-
 
