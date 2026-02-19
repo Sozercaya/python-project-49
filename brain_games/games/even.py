@@ -1,12 +1,10 @@
-import prompt
 from random import randint
-
 
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def is_even(number):
-    #Проверяет, является ли число чётным
+    # Проверяет, является ли число чётным
     return number % 2 == 0
 
 

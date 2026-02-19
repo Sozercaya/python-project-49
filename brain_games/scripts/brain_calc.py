@@ -3,7 +3,7 @@ from brain_games.games import calc
 
 
 def main():
-    #Запускает игру
+    # Запускает игру
     run_game(calc)
 
 
