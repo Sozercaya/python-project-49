@@ -56,6 +56,12 @@ brain-progression
 Пример работы
 https://asciinema.org/a/pIizvxxKcoKPEikT
 
+# Игра "Простое ли число?"
+brain-prime
+Пример работы
+https://asciinema.org/a/JU2o3BH5TjqUZmyr
+
+
 Разработка
 Настройка окружения
 bash
